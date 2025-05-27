@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/00161f65-c8cb-4ee1-baa6-1ee70f391923" alt="typing" />
 </p>
 
-<h2 align="left">¡Hola! Soy Barkk-ee y soy un estudiante apasionado. Mi motivación es hacer la vida más fácil. ✨</h2>
+<h2 align="left">¡Hola! Soy Barkk-ee, un estudiante apasionado por lo que hace. Mi motivación es transformar vidas. ✨</h2>
 
 ###
 
@@ -15,7 +15,7 @@
 <img align="right" height="150" src="https://i.pinimg.com/originals/6e/b3/c7/6eb3c775c064baff9b9f085e8f3f91d1.gif" />
 
 ###
-<h3 align="center">Lenguajes que sé (soy noob)</h3>
+<h3 align="center">Lenguajes que sé</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
   <img Width="12"/>
